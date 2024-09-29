@@ -1,7 +1,7 @@
 # Amazonサイトのスクレイピング
 
 ## 対象ウェブサイト
-Amazon Japan（https://www.amazon.co.jp）
+Amazon Japan（https://www.amazon.co.jp ）
 
 ## スクリプト
 
